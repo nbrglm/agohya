@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/nbrglm/agohya/raw/main/docs/images/logo.png" alt="Agohya Logo" width="200"/>
+  <img src="https://github.com/nbrglm/agohya/blob/aa17bbfa560074e01eaac68ee9c5699a05bd4900/docs/images/logo.png" alt="Agohya Logo" width="200"/>
 </p>
 
 # **Agohya OS**
